@@ -1,0 +1,42 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+tour-of-heroes/dist
+tour-of-heroes/tmp
+tour-of-heroes/out-tsc
+tour-of-heroes/bazel-out
+
+# Node
+tour-of-heroes/node_modules
+tour-of-heroes/npm-debug.log
+tour-of-heroes/yarn-error.log
+
+# IDEs and editors
+tour-of-heroes/.idea/
+tour-of-heroes/.project
+tour-of-heroes/.classpath
+tour-of-heroes/.c9/
+tour-of-heroes/*.launch
+tour-of-heroes/.settings/
+tour-of-heroes/*.sublime-workspace
+
+# Visual Studio Code
+tour-of-heroes/.vscode/*
+tour-of-heroes/!.vscode/settings.json
+tour-of-heroes/!.vscode/tasks.json
+tour-of-heroes/!.vscode/launch.json
+tour-of-heroes/!.vscode/extensions.json
+tour-of-heroes/.history/*
+
+# Miscellaneous
+tour-of-heroes/.angular/cache
+tour-of-heroes/.sass-cache/
+tour-of-heroes/connect.lock
+tour-of-heroes/coverage
+tour-of-heroes/libpeerconnection.log
+tour-of-heroes/testem.log
+tour-of-heroes/typings
+
+# System files
+tour-of-heroes/.DS_Store
+tour-of-heroes/Thumbs.db
